@@ -1,0 +1,2 @@
+# PhoneBook
+In this phone- book, for each person, you will have an entry in which you keep the first name and the last name of the  person as well as a list of her/his phone numbers. Each phone number is represented by a three digit  integer corresponding to the area code and a seven digit integer corresponding to the number. The phone- book MUST use a sorted linear doubly linked list (with no dummy head node) to store the person entries,  and for each person, an unsorted circular singly linked list (with no dummy head node) to store the phone  numbers.
